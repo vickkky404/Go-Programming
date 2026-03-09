@@ -1,3 +1,5 @@
+// Go Program
+
 package main
 
 import (
@@ -16,4 +18,5 @@ func main(){
 	// comma OK syntax or also called as error ok syntax
 	input, _ := reader.ReadString('\n')
 	fmt.Printf("Thanks for rating our pizza %v", input)
+
 }
