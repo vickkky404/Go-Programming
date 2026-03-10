@@ -1,6 +1,7 @@
 package models
 
-type Example struct {
-	ID   int    `json:"id"`
-	Name string `json:"name"`
+type User struct {
+	ID    int    `json:"id"`
+	Name  string `json:"name"`
+	Email string `json:"email"`
 }
