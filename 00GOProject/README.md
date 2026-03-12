@@ -1,6 +1,6 @@
 # Go Backend
 
-A clean, idiomatic Go backend project.
+A clean, idiomatic Go backend project...
 
 ## Project Structure
 
